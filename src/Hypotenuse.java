@@ -15,9 +15,14 @@ public class Hypotenuse
         System.out.println("2.Kenar değerini giriniz");
         b = input.nextInt();
 
-         c = Math.sqrt((a*a + b*b));
+        System.out.println("3.Kenar değerini giriniz");
+        c = input.nextInt();
 
-         System.out.println("Hipotenüs: " + c);
+        double u = (a + b + c) / 2;
+
+        double area = Math.sqrt(u * (u - a) * (u - b) * (u - c));
+
+         System.out.println("Area of Triangle: " + area);
 
 
     }
