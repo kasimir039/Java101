@@ -5,7 +5,7 @@ public class AreaOfCircle
     public static void main(String[] args)
     {
         int r;
-        double area, pi= 3.14 ,alpha,circumference ;
+        double area, pi= 3.14 ,alpha;
 
         System.out.println("Enter the radius value:");
         Scanner input = new Scanner(System.in);
