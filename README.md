@@ -1,1 +1,1 @@
-Patika.dev sitesinde Java-Backend eğitim serisi örnekleri
+Patika.dev Java101-Backend eğitim serisi 
