@@ -12,6 +12,7 @@ class Numbers {
 
         Scanner input = new Scanner(System.in);
 
+        System.out.println("Enter the number n");
         int n = input.nextInt();
 
         int i = 0;
