@@ -6,22 +6,20 @@ public class PerfectNumber
     {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("n1: " );
+        System.out.print("number: " );
         int num = input.nextInt();
         int sum = 0;
 
         for (int i = 1; i <= num / 2; i++) {
-            if (num % i == 0) {
+            if (num % i == 0)
                 sum += i;
-            }
         }
-
         if(sum == num)
         {
-            System.out.println(num + " mükemmel bir sayıdır.");
+            System.out.println(num + " is a perfect number.");
         }
         else {
-            System.out.println(num + " mükemmel bir sayı değildir.");
+            System.out.println(num + " is not a perfect number.");
         }
     }
 }
