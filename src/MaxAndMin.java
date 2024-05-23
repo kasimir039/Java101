@@ -25,9 +25,12 @@ public class MaxAndMin {
                 min = number;
 
         }
-
-        System.out.println("Max: " + max);
-        System.out.println("Min: " + min);
+        if(min == max)
+            System.out.println("Equal");
+        else {
+            System.out.println("Max: " + max);
+            System.out.println("Min: " + min);
+        }
 
     }
 }
