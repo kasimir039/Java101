@@ -6,11 +6,12 @@ public class Fibonacci
 
         Scanner input = new Scanner(System.in);
 
+        System.out.print("Enter the number n: ");
         int n = input.nextInt();
-        System.out.println("Enter the number n");
+
         long fib = 1, prev = 0;
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i <= n; i++) {
             long temp = fib;
             fib += prev;
             prev = temp;
