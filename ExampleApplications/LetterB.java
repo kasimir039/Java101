@@ -1,4 +1,4 @@
-public class Letters
+public class LetterB
 {
     public static void main(String[] args) {
         String[][] letter = new String[6][4];
