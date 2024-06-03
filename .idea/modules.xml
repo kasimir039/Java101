@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BoxingGame/BoxingGame.iml" filepath="$PROJECT_DIR$/BoxingGame/BoxingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElevatorSimulationUML/ElevatorSimulationUML.iml" filepath="$PROJECT_DIR$/ElevatorSimulationUML/ElevatorSimulationUML.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.iml" filepath="$PROJECT_DIR$/MineSweeperGame/MineSweeperGame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OnlineMovieSystemUML/OnlineMovieSystemUML.iml" filepath="$PROJECT_DIR$/OnlineMovieSystemUML/OnlineMovieSystemUML.iml" />
       <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniversityManagementSystemUML/UniversityManagementSystemUML.iml" filepath="$PROJECT_DIR$/UniversityManagementSystemUML/UniversityManagementSystemUML.iml" />
